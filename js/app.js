@@ -12,7 +12,7 @@ window.addEventListener("scroll", function () {
 
 const scroll = ScrollReveal({
     distance: "50px",
-    duration: 100,
+    duration: 1200,
     easing: "cubic-bezier(0.68, -0.55, 0.265, 1.55)"
 })
 
