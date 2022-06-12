@@ -1,7 +1,7 @@
 # Portfolio 1
 
 ![](images/portfoli-frame.png)
-A simple overview of the use/purpose of the project.
+
 
 ## Description
 
