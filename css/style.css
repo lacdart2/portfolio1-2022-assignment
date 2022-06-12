@@ -697,9 +697,11 @@ canvas {
 }
 .project-description p:first-of-type {
           padding-left: 0;
+          font-size: 1.8rem;
 }
 .project-description :nth-of-type(2) {
           padding-left: 0;
+          font-size: 1.4rem;
 }
 /* MY WORKS - end **************************************************************************/
 
