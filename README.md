@@ -1,7 +1,6 @@
 # Portfolio 1
 
-![](images/portfoli-frame.png)
-![](/Users/lakhdarhafsi/Desktop/portfolio1-2022-assignment/images/portfoli-frame.png)
+
 
 ## Description
 
