@@ -173,7 +173,6 @@ header {
           100% {
                     letter-spacing: 0.2em;
                     opacity: 1;
-                    /* transform: translateX(-2000px); */
           }
 }
 
@@ -202,10 +201,6 @@ header {
           transition: var(--transition-2);
 }
 .close-menu:hover {
-          /*    -webkit-animation: tracking-out-expand 0.8s
-                    cubic-bezier(0.25, 0.46, 0.45, 0.94) both; */
-          /*  animation: tracking-out-expand 0.8s
-                    cubic-bezier(0.25, 0.46, 0.45, 0.94) both; */
           color: var(--accent-color);
 }
 .close-menu::after {
@@ -375,12 +370,11 @@ header {
           padding-left: 5rem;
           flex-basis: 60%;
           height: 100%;
-          /*   border-bottom: 2px solid var(--accent-color); */
 }
 
 .so-far-process {
           position: absolute;
-          /* transform: translate(-5rem, -15rem); */
+
           transform: translate(0rem, -15rem);
 }
 
